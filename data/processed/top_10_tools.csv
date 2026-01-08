@@ -1,0 +1,11 @@
+Technology,CurrentUsageCount,FutureDemandCount
+Docker,29219,26262
+npm,26866,16714
+Pip,17561,11393
+Homebrew,12081,8798
+Make,11259,7377
+Vite,10804,9980
+Kubernetes,10503,13197
+Yarn,10209,5955
+Webpack,9970,4527
+NuGet,8703,6178

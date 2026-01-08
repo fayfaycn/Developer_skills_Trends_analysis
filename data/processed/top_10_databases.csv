@@ -1,0 +1,11 @@
+Technology,CurrentUsageCount,FutureDemandCount
+PostgreSQL,25536,24005
+MySQL,21099,12269
+SQLite,17365,13489
+Microsoft SQL Server,13275,7905
+MongoDB,13007,10982
+Redis,10463,10847
+MariaDB,8991,5947
+Elasticsearch,6533,6246
+Oracle,5273,2636
+Dynamodb,4138,3503
