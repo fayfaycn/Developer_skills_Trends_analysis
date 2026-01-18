@@ -22,4 +22,4 @@ Analysis: SQL (SQLite) for complex relational querying and trend aggregation.
 
 Business Intelligence: PowerBI / IBM Cognos for executive-level interactive storytelling.
 
-
+> This project is being updated via Git Bash!
